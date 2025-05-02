@@ -65,3 +65,10 @@ To build and evaluate both a simple baseline model and a more advanced multilaye
 - Integrate this model into real applications like customer support chatbots or brand monitoring systems.
 - Extend classification to identify harmful or abusive tweets.
 
+---
+
+## 👤 Contact & Portfolio
+👤 **Jiaxin(Berry) Tian**  
+📧 berrytian15@gmail.com  
+🔗 https://github.com/berrrrry-hub?tab=repositories
+
